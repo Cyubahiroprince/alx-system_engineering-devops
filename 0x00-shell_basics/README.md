@@ -1,1 +1,1 @@
-script of Displayed current directory contents
+a script that creates a directory
