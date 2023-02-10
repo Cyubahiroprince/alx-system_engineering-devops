@@ -1,1 +1,1 @@
-a script that creates a directory
+script that move the file to another one in the directory
